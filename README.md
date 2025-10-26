@@ -10,6 +10,7 @@ The clustering models used include:
 - **DBSCAN**: Detects high-density clusters and identifies outliers (noise).
 
 **Dataset link**: https://www.kaggle.com/datasets/usgs/earthquake-database
+
 **Streamlit Link**: https://earthquakeclusteringtask-c3eayj7cjjpe3hsrszrcab.streamlit.app/
 
 ## Dataset Description
@@ -30,19 +31,15 @@ The clustering models used include:
 6. **Scaling & PCA**: Standardized features using `StandardScaler` and reduced dimensions to 2 using PCA for visualization.
 
 ## Model Development
-Three clustering models were developed:
-
-### 1. KMeans
+**1. KMeans**
 - `n_clusters = 3`
 - Groups earthquakes based on PCA-reduced features.
 - Provides clear cluster labels for regions.
-
-### 2. Hierarchical Clustering
+**2. Hierarchical Clustering**
 - Agglomerative clustering with `ward` linkage.
 - Produces a dendrogram for visual analysis.
 - Cluster assignment based on maximum clusters (`t=3`).
-
-### 3. DBSCAN
+**3. DBSCAN**
 - Density-based clustering (`eps=1.2`, `min_samples=4`).
 - Identifies dense clusters and noise points (outliers).
 - Works well for non-globular cluster shapes.
