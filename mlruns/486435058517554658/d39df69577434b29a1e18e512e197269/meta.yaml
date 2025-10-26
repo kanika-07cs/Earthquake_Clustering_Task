@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/AIWF/Earthquake_Clustering_Task/mlruns/486435058517554658/d39df69577434b29a1e18e512e197269/artifacts
+end_time: 1761462061794
+entry_point_name: ''
+experiment_id: '486435058517554658'
+lifecycle_stage: active
+run_id: d39df69577434b29a1e18e512e197269
+run_name: KMeans
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761462051217
+status: 3
+tags: []
+user_id: kanik

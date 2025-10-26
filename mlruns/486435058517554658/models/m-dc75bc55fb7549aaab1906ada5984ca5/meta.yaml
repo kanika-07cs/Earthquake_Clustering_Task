@@ -1,0 +1,10 @@
+artifact_location: file:///D:/AIWF/Earthquake_Clustering_Task/mlruns/486435058517554658/models/m-dc75bc55fb7549aaab1906ada5984ca5/artifacts
+creation_timestamp: 1761461332945
+experiment_id: '486435058517554658'
+last_updated_timestamp: 1761461335530
+model_id: m-dc75bc55fb7549aaab1906ada5984ca5
+model_type: null
+name: kmeans_model
+source_run_id: ad84e94ca0a54573b4764ca485f51d77
+status: 2
+status_message: null

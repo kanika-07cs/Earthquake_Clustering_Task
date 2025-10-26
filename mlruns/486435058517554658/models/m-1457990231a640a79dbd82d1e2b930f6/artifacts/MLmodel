@@ -1,0 +1,22 @@
+artifact_path: file:///D:/AIWF/Earthquake_Clustering_Task/mlruns/486435058517554658/models/m-1457990231a640a79dbd82d1e2b930f6/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.10.18
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.7.2
+mlflow_version: 3.5.1
+model_id: m-1457990231a640a79dbd82d1e2b930f6
+model_size_bytes: 94300
+model_uuid: m-1457990231a640a79dbd82d1e2b930f6
+prompts: null
+run_id: ad3a63b7541749c88612175343dbf7c5
+utc_time_created: '2025-10-26 06:14:14.617305'

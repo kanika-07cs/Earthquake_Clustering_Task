@@ -1,0 +1,10 @@
+artifact_location: file:///D:/AIWF/Earthquake_Clustering_Task/mlruns/486435058517554658/models/m-c5c455649c734d5ba370ad4de0102204/artifacts
+creation_timestamp: 1761462075839
+experiment_id: '486435058517554658'
+last_updated_timestamp: 1761462077840
+model_id: m-c5c455649c734d5ba370ad4de0102204
+model_type: null
+name: dbscan_model
+source_run_id: 163c7225abf349fca9775229dc92e83b
+status: 2
+status_message: null

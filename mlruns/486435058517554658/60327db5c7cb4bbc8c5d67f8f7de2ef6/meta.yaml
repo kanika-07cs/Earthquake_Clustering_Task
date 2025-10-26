@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/AIWF/Earthquake_Clustering_Task/mlruns/486435058517554658/60327db5c7cb4bbc8c5d67f8f7de2ef6/artifacts
+deleted_time: 1761462099486
+end_time: 1761461352963
+entry_point_name: ''
+experiment_id: '486435058517554658'
+lifecycle_stage: deleted
+run_id: 60327db5c7cb4bbc8c5d67f8f7de2ef6
+run_name: DBSCAN
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761461342258
+status: 3
+tags: []
+user_id: kanik
