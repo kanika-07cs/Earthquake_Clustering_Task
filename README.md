@@ -35,10 +35,12 @@ The clustering models used include:
 - `n_clusters = 3`
 - Groups earthquakes based on PCA-reduced features.
 - Provides clear cluster labels for regions.
+
 **2. Hierarchical Clustering**
 - Agglomerative clustering with `ward` linkage.
 - Produces a dendrogram for visual analysis.
 - Cluster assignment based on maximum clusters (`t=3`).
+
 **3. DBSCAN**
 - Density-based clustering (`eps=1.2`, `min_samples=4`).
 - Identifies dense clusters and noise points (outliers).
